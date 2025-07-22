@@ -102,7 +102,7 @@ input[type='radio'] {
 .meme-modal {
   max-width: 90vw;
   height: auto;
-  height: 60vh;
+  height: 40vh;
   background-color: #fff0ee;
   border: 1px solid hsla(0, 19%, 23%, 0.836);
   border-radius: 5px;
@@ -110,7 +110,7 @@ input[type='radio'] {
   justify-content: center;
   align-items: center;
   position: fixed;
-  top: 80px;
+  top: 100px;
   left: 0;
   right: 0;
   margin: auto;
