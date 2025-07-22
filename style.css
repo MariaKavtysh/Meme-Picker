@@ -101,6 +101,7 @@ input[type='radio'] {
 
 .meme-modal {
   max-width: 90vw;
+  height: auto;
   height: 40vh;
   background-color: #fff0ee;
   border: 1px solid hsla(0, 19%, 23%, 0.836);
