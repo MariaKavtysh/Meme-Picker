@@ -5,12 +5,13 @@ body {
 }
 
 header {
+  border: 1px solid red;
   background-color: #463030d5;
   color: #eed6d3;
 }
 
 .header-inner {
-  width: 370px;
+  max-width: 370px;
   margin: 0 auto;
   padding: 1.5em;
   display: flex;
