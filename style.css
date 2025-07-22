@@ -10,22 +10,25 @@ header {
 }
 
 .header-inner {
-  max-width: 370px;
+  max-width: 400px;
   margin: 0 auto;
-  padding: 1.5em;
+  padding: 1em;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 3em;
 }
 
 .header-inner img {
-  width: 80px;
+  width: 50%;
 }
 
 .header h1 {
-  font-size: 3em;
+  font-size: 1.8em;
   margin-top: 0;
+}
+
+h2 {
+  font-size: 1.4em;
 }
 
 main h3 {
